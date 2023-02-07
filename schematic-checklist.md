@@ -10,9 +10,9 @@ off as invalid.
 * [x] Debug interfaces are not power gated in sleep mode
 
 ## Passive components
-* [ ] Power/voltage/tolerance ratings specified as required
-* [ ] Ceramic capacitors appropriately de-rated for C/V curve
-* [ ] Polarized components specified in schematic if using electrolytic caps etc
+* [x] Power/voltage/tolerance ratings specified as required
+* [x] Ceramic capacitors appropriately de-rated for C/V curve
+* [x] Polarized components specified in schematic if using electrolytic caps etc
 
 ## Power supply
 
@@ -72,11 +72,11 @@ same gain across the whole range.
     * [x] If possible, create dummy design with all clocks and other key signals and verify it P&R's properly
 
 ### Strap/init pins
-* [ ] Pullup/pulldowns on all signals that need defined state at boot
-* [ ] Strap pins connected to correct rail for desired state
-* [ ] JTAG/ICSP connector provided for all programmable devices
-* [ ] Config/boot flash provided for all FPGAs or MPUs without internal flash
-* [ ] Reference resistors correct value and reference rail
+* [x] Pullup/pulldowns on all signals that need defined state at boot
+* [x] Strap pins connected to correct rail for desired state
+* [x] JTAG/ICSP connector provided for all programmable devices
+* [x] Config/boot flash provided for all FPGAs or MPUs without internal flash
+* [x] Reference resistors correct value and reference rail
 
 ### External interface protection
 
