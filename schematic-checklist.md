@@ -89,7 +89,7 @@ same gain across the whole range.
 * [x] Provide multiple ground clips/points for scope probes
 * [x] Dedicated ground in close proximity to analog test points
 * [x] Test points on all power rails
-* [ ] Test points on interesting signals which may need probing for bringup/debug
+* [x] Test points on interesting signals which may need probing for bringup/debug
 
 ## Thermal
 
